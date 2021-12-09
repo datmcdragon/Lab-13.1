@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Users\ensey\source\repos\Lab13.1\Lab13.1\Main.cpp(17,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  dod.cpp
+  sum.cpp
+  Создание кода...
+  Lab13.1.vcxproj -> C:\Users\ensey\Source\Repos\Lab13.1\x64\Debug\Lab13.1.exe
